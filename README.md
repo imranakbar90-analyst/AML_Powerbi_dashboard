@@ -70,6 +70,30 @@ Smurfing patterns detected via repeated small transactions under reporting thres
 
 Geographic clustering highlights cross-border transfers to high-risk regions.
 
+### 🔹 Main Dashboard
+![Page 1 - Main](Screenshots/Page 1 - Main.jpg)
+
+### 🔹 Overview
+![Overview](Screenshots/sender_drillthrough.png)
+
+### 🔹 Payment mode Transaction Detail
+![Page 3 - Payment mode Transaction Detail](Screenshots/Page 3 - Payment mode Transaction Detail.jpg)
+
+### 🔹 Remitter
+![Page 4 - Remitter](Screenshots/Page 4 - Remitter.jpg)
+
+### 🔹 Beneficiary
+![Page 5 - Beneficary](Screenshots/Page 5 - Beneficary.jpg)
+
+### 🔹 Trend Analysis
+![Page 6 - Trend Analysis](Screenshots/Page 6 - Trend Analysis.jpg)
+
+### 🔹 Geography and Network Linkages
+![Page 7 - Geography and Network Linkages](Screenshots/Page 7 - Geography and Network Linkages.jpg)
+
+### 🔹 Info
+![Page 8 - info](Screenshots/Page 8 - info.png)
+
 🧩 How to Use
 
 Download the .pbix file from this repository.
