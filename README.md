@@ -1,6 +1,6 @@
 # AML_Powerbi_dashboard
 
-# 🏦 Synthetic Transaction Monitoring Dashboard (AML)
+# 🏦 Synthetic Transaction Monitoring Dashboard (AML) 
 
 This Power BI project visualizes synthetic financial transactions to identify potential **Anti-Money Laundering (AML)** risks.  
 It is based on the [Synthetic Transaction Monitoring Dataset (AML)](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml) from Kaggle.
