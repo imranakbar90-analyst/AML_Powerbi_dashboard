@@ -98,6 +98,9 @@ Geographic clustering highlights cross-border transfers to high-risk regions.
 
 Download the .pbix file from this repository.
 
+## 📂 Power BI File
+[Download Project File (https://drive.google.com/file/d/11wt7Wagsxbr5tRIIhlg-sQdo9G6QTAkn/view?usp=drive_link)
+
 Open in Power BI Desktop.
 
 Use slicers to explore data across different time periods or transaction types.
