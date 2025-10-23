@@ -71,28 +71,28 @@ Smurfing patterns detected via repeated small transactions under reporting thres
 Geographic clustering highlights cross-border transfers to high-risk regions.
 
 ### 🔹 Main Dashboard
-![Page 1 - Main](Screenshots/Page 1 - Main.jpg)
+![Page 1 - Main](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%201%20-%20Main.jpg)
 
 ### 🔹 Overview
-![Overview](Screenshots/sender_drillthrough.png)
+![Overview](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%202%20-%20Overview.jpg)
 
 ### 🔹 Payment mode Transaction Detail
-![Page 3 - Payment mode Transaction Detail](Screenshots/Page 3 - Payment mode Transaction Detail.jpg)
+![Page 3 - Payment mode Transaction Detail](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%203%20-%20Payment%20mode%20Transaction%20Detail.jpg)
 
 ### 🔹 Remitter
-![Page 4 - Remitter](Screenshots/Page 4 - Remitter.jpg)
+![Page 4 - Remitter](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%204%20-%20Remitter.jpg)
 
 ### 🔹 Beneficiary
-![Page 5 - Beneficary](Screenshots/Page 5 - Beneficary.jpg)
+![Page 5 - Beneficary](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%205%20-%20Beneficary.jpg)
 
 ### 🔹 Trend Analysis
-![Page 6 - Trend Analysis](Screenshots/Page 6 - Trend Analysis.jpg)
+![Page 6 - Trend Analysis](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%206%20-%20Trend%20Analysis.jpg)
 
 ### 🔹 Geography and Network Linkages
-![Page 7 - Geography and Network Linkages](Screenshots/Page 7 - Geography and Network Linkages.jpg)
+![Page 7 - Geography and Network Linkages]([Screenshots/Page 7 - Geography and Network Linkages.jpg](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%207%20-%20Geography%20and%20Network%20Linkages.jpg))
 
 ### 🔹 Info
-![Page 8 - info](Screenshots/Page 8 - info.png)
+![Page 8 - info]([Screenshots/Page 8 - info.png](https://github.com/imranakbar90-analyst/AML_Powerbi_dashboard/blob/ee44bd8f3c0434d86de6fd46a8d492627b9f6ba9/Screenshots/Page%208%20-%20info.jpg))
 
 🧩 How to Use
 
